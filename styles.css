@@ -1,0 +1,32 @@
+body{
+    background-color:#f1f1f1;
+    color:#0f141e;
+    font-size: 16px; 
+} 
+.conteiner{
+    max-width: 800px;
+    margin: auto;
+}
+.avatar{
+    display:flex;
+}
+.foto{
+    border-radius: 35px;
+    box-shadow: 8px 1px rgb(215, 203, 243);
+    width: 250px;
+    height: 300px;
+} 
+.kont{
+    font-size: 18px; 
+}
+.foto2{
+  margin-left: 50px;     
+}
+
+.gde h3{
+  padding-bottom: 1px;
+  padding-top: 1px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  
+}
